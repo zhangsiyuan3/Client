@@ -1,0 +1,34 @@
+/* pages/Home/OnlineService/OnlineService.wxss */
+.CustomerService{
+  padding-top: 12rpx;
+}
+.listBox{
+  height: 150rpx;
+  background: #fff;
+  margin-bottom: 1rpx;
+  padding: 25rpx 30rpx;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.portrait{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 100%;
+  margin-right: 20rpx;
+}
+.CustomerServiceName{
+  font-weight: 600;
+}
+.reddot{
+  flex: 1;
+  margin-left: 35rpx;
+}
+.reddot text{
+  display: block;
+  width: 16rpx; 
+  height: 16rpx;
+  background: #f60000;
+  border-radius: 100%;
+}

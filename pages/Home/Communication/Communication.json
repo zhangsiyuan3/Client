@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "在线沟通",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "chart-voice": "/component/chartVoice/chartVoice"
+  }
+}

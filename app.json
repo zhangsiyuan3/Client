@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/Home/OnlineService/OnlineService",
+    "pages/Home/Communication/Communication",
+    "component/chartVoice/chartVoice"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarBackgroundColor": "#0068b7",
+    "navigationBarTextStyle": "white"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小程序获取您的位置，用于更好的为您提供服务"
+    }
+  }
+}
